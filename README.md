@@ -22,17 +22,15 @@ yarn hardhat or npx hardhat
 maybe you need to install those if you use yarn :
 ```
 yarn add --dev @nomicfoundation/hardhat-toolbox @nomicfoundation/hardhat-network-helpers @nomicfoundation/hardhat-chai-matchers @nomiclabs/hardhat-ethers @nomiclabs/hardhat-etherscan chai ethers hardhat-gas-reporter solidity-coverage @typechain/hardhat typechain @typechain/ethers-v5 @ethersproject/abi @ethersproject/providers
-``
+```
 and install openzepplin and dotenv by running :
 ```
 yarn add @openzeppelin/contracts 
 ```
+and install dotenv 
 ```
 yarn add dotenv
 ```
-and create js or ts project :)
-
-
 
 ## create website
  now create next js project by running :
