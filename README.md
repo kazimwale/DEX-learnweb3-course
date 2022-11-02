@@ -37,10 +37,3 @@ and create js or ts project :)
 ```
 npx create-next-app@latest
 ```
-and install ethers and web3modal :
-```
-npm install web3modal  
-```
-```
-npm install ethers
-```
