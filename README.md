@@ -32,12 +32,14 @@ yarn add dotenv
 ```
 and create js or ts project :)
 
+
+
 ## create website
  now create next js project by running :
 ```
 npx create-next-app@latest
 ```
 then install web3modal and ethers.js
-```bash 
+```
 npm install web3modal ethers
 ```
